@@ -1,0 +1,119 @@
+body{
+    font-family: 'Segoe UI';
+}
+main{
+    box-shadow: 30px 0px 40px rgb(196,196,196), -30px 0px 40px rgb(196,196,196);
+    margin: auto;
+    max-width :900px;
+}
+.srkl{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+    background-color: #fff;
+    width:100%;
+}
+header{
+    height: 160px;
+    padding-top: 10px;
+    color:white;
+    background-color: #2a7d80 ;
+}
+.photo{
+    margin-left: 7%;
+    border-radius: 50%;
+    width:130px;
+    height:130px;
+    overflow: hidden;
+}
+.des{
+    margin-left:25% ;
+    margin-top:-10%;
+}
+h3{ 
+    color: #97be07;
+    font-weight: bold;
+    letter-spacing: .1rem;
+    font-size:20px ;
+}
+.post{
+    color:rgb(36, 35, 34);
+    font-weight: bold;
+    letter-spacing: .1rem;
+}
+.right{
+    margin: 5px;
+    padding: 0;
+    margin-top: -15%;
+}
+.right p{
+    margin-left:600px;
+    letter-spacing: .1rem;
+}
+.info{
+    width: 20px;
+    height: 20px;
+}
+.section-left{
+    background-color:#fff ;
+    float:left;
+    width: 400px;
+}
+.section-right{
+    background-color:#fff ;
+    float:right;
+    width: 400px;
+}
+h4{
+    margin-left: 10%;
+    color: #97be07;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+hr .light{
+    border-top: 2px solid #97be07;
+    width: 90%;
+    margin-top: .8rem;
+    margin-bottom: 1rem;
+}
+.atouts{
+    display:grid ;
+    grid-template-columns: repear(2, 1fr);
+    margin-left: 10%;
+}
+.div{
+    margin-left: 10%;
+}
+.skils{
+    padding: 0;
+    width:40%;
+    margin-left:10%;
+}
+.cool{
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+.po{
+    margin-top: 20px;
+}
+strong{
+    color: #97be07;
+    text-decoration: none;
+}
+.inner{
+    height: 100%;
+    background-color: rgb(33, 54, 58);
+}
+.interet{
+    margin-left:10%;
+}
+span{
+    margin-left:10%;
+}
+.dow{
+    border: none;
+    color: rgb(90, 70, 224);
+    border-color: rgb(51, 14, 173);
+}

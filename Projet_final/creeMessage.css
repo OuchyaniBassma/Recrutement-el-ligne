@@ -1,0 +1,48 @@
+.error{
+    color: rgb(209, 9, 9);
+    font-size: 20px;
+    height: 30px;
+    text-align: center;
+    }
+    .div1{
+        margin: auto;
+        height: 80px;
+        background-color: rgb(144, 178, 179);
+        border: 2px solid gray;
+        border-radius: 8px;
+        box-shadow: 8px 8px 2px rgb(197, 190, 190);
+        text-align: center;
+        background-color: rgb(199, 213, 209);
+    
+}
+form{
+    width: 800px;
+    margin: auto;
+    height: 440px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: rgb(224, 239, 239);
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+
+}
+.nv{   
+    border-radius: 8px;
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+     margin: auto;
+    width: 800px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+.in1{
+    width: 500px;
+    padding: 10px;
+}
+.in2{
+    width: 462px;
+    padding: 30px;
+}
+.in3{
+    background-color: rgb(85, 167, 180);
+    font-size: 16px;
+    font-style: italic;
+}

@@ -1,0 +1,83 @@
+.error{
+    color: rgb(209, 9, 9);
+    font-size: 20px;
+    height: 30px;
+    text-align: center;
+    }
+    .div1{
+        margin: auto;
+        height: 80px;
+        background-color: rgb(144, 178, 179);
+        border: 2px solid gray;
+        border-radius: 8px;
+        box-shadow: 8px 8px 2px rgb(197, 190, 190);
+        text-align: center;
+        background-color: rgb(199, 213, 209);
+    
+}
+table{
+    
+        width: 800px;
+        margin: auto;
+        border-radius: 8px;
+        border: 2px solid gray;
+
+        background-color: rgb(224, 239, 239);
+        box-shadow: 8px 8px 2px rgb(197, 190, 190);
+    
+    }
+
+.td1{
+    width: 300px;
+    border: 2px solid gray;
+    border-radius: 8px;
+
+}
+.td2{
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 8px;
+
+
+}
+.td3{
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.td4{
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+.nv{   
+    border-radius: 8px;
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+    margin: auto;
+    width: 800px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+.td5{
+    width: 500px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+
+.td7{
+    width: 100px;
+    border: 2px solid gray;
+    border-radius: 8px;
+}
+.td8{
+    border-right: 2px solid gray;
+    border-bottom: 2px solid gray;
+    text-align: center;
+
+}
+.td6{
+    border-bottom: 2px solid gray;
+    text-align: center;
+
+}
+.btn:focus{
+    background-color: rgb(227, 63, 30);
+}

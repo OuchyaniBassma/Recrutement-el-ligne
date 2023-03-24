@@ -1,0 +1,69 @@
+.div1{
+    margin: auto;
+    height: 80px;
+    background-color: rgb(144, 178, 179);
+    border: 2px solid gray;
+    border-radius: 8px;
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+    text-align: center;
+    background-color: rgb(199, 213, 209);
+
+}
+.in{
+padding: 6px;
+text-align: center;
+width: 150px;
+border-radius: 7px;
+background-color: rgb(223, 231, 239);
+}
+.in:hover{
+color: rgb(51, 66, 227);
+background-color: rgb(36, 86, 129);
+}
+.cherche{
+margin: 0 auto;
+width: 900px;
+padding: 12px;
+}
+.tab{
+width: 1530px;
+height: auto;
+border: 1px solid black;
+}
+.td1{
+width: 180px;
+text-align: center;}
+
+.td2{
+width: 100px;
+}
+.td3{
+width: 180px;
+text-align: center;}
+.acceuil{
+    background-color: rgb(235, 82, 11);
+}
+.offre{
+    border-radius: 30px;
+
+    border: 1px gray solid;
+    box-shadow: 9px 9px 9px gray;
+    background-color: rgb(241, 239, 236);
+    height: auto;
+    width: 800px;
+    margin-left: 300px;
+    padding-left:  8px;
+}
+.tab3{
+    border: 1px solid black;
+    width: 300px;
+    padding: 400px;
+
+}
+.name{
+    color: rgb(53, 61, 208);
+}
+.img{
+    border-radius: 50%;
+    border: 1px solid black;
+}

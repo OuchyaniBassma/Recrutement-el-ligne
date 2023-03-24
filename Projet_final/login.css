@@ -1,0 +1,78 @@
+.form{
+    width: 800px;
+    margin: auto;
+    height: 440px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: rgb(224, 239, 239);
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+
+}
+.form2{
+    width: 800px;
+    margin: auto;
+    height: 440px;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: rgb(224, 239, 239);
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+
+}
+
+
+.div1{
+    width: 800px;
+    margin: auto;
+    background-color: rgb(144, 178, 179);
+    border: 2px solid gray;
+    border-radius: 8px;
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+
+}
+
+.liw{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+
+.icons ion-icon{
+    color: #100e0e;
+    font-size: 30px;
+    padding-left: 34px;
+    padding-top: 7px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color: lightblue;
+}
+.lang{    
+    width: 110px;
+}
+.error{
+color: rgb(209, 9, 9);
+font-size: 20px;
+height: 30px;
+text-align: center;
+}
+.changer{
+    height: 20px;
+    font-size: 13px;
+    text-align: center;
+    padding-bottom: 20px;
+
+}
+.form3{
+    width: 800px;
+    margin: auto;
+    height: auto;
+    border: 2px solid gray;
+    border-radius: 8px;
+    background-color: rgb(224, 239, 239);
+    box-shadow: 8px 8px 2px rgb(197, 190, 190);
+
+}
+.bt{
+    float: right;
+}
